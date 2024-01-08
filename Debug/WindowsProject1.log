@@ -1,0 +1,3 @@
+﻿  WindowsProject1.cpp
+D:\VS_Projects\WindowsProject1\WindowsProject1.cpp(110,14): warning C4101: hkprcSysMsg: неиспользованная локальная переменная
+  WindowsProject1.vcxproj -> D:\VS_Projects\WindowsProject1\Debug\WindowsProject1.exe
