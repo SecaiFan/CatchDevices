@@ -1,0 +1,2 @@
+﻿D:\Visual Studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (WindowsProject1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  WindowsProject1.vcxproj -> D:\VS_Projects\WindowsProject1\x64\Debug\WinService.exe

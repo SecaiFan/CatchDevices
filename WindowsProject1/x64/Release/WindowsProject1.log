@@ -1,0 +1,4 @@
+﻿D:\Visual Studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (WindowsProject1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  WinService.cpp
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: неразрешенный внешний символ WinMain.
+D:\VS_Projects\WindowsProject1\x64\Release\WinService.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

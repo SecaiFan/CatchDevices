@@ -1,0 +1,2 @@
+﻿  CppStudio.cpp
+D:\VS_Projects\Project2\CppStudio.cpp(4,10): error C1083: Не удается открыть файл включение: mysql.h: No such file or directory,
